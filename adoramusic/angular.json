@@ -37,7 +37,7 @@
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "8mb",
+                  "maximumWarning": "10mb",
                   "maximumError": "10mb"
                 }
               ],
@@ -97,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
